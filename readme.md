@@ -20,13 +20,13 @@
     </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Languages and Tools:</h3>
 
 <table align="center">
   <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>DevOps & Database</th>
+    <th><span style="color: #FF5733; font-weight: bold;">Frontend</span></th>
+    <th><span style="color: #33C1FF; font-weight: bold;">Backend</span></th>
+    <th><span style="color: #8A2BE2; font-weight: bold;">DevOps & Database</span></th>
   </tr>
   <tr>
     <td align="center">
