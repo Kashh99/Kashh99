@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kashyap Mavani</h1>
 <h3 align="center">Crafting applications that not only work but leave you wondering how you ever settled for less.</h3>
 
+- ➡️ My Portfolio Website www.kashyapmavani.com**
 - 🔭 I’m currently working on **Grocery Management System**
 - 🌱 I’m currently learning **NextJs and TypeScript**
-- 💬 Ask me about **React, Vue, and GSAP**
+- 💬 Ask me about **React, Angular, and Tailwindcss**
 - 📫 How to reach me **kashyapmavani@yahoo.in**
 - ⚡ Fun fact **I think I’m funny and my code is no joke!**
 
